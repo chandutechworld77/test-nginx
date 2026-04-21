@@ -1,0 +1,5 @@
+node_modules
+certificates
+certs
+server/node_modules
+docker-compose.yml
