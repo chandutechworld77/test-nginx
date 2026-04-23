@@ -2,7 +2,7 @@ name: 01-deploy-dev (ACA)
 
 on:
   push:
-    branches: ["abc"]
+    branches: ["test"]
   workflow_dispatch:
 
 permissions:
